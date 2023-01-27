@@ -22,3 +22,19 @@ def potential_divider(v,arr):
     return voltarr
 
 potential_divider(9, [3000, 1000])
+
+def temperature_check(temp,unit):
+    if unit== "F":
+        temp=(temp-32)*5/9
+    if temp==37:
+        print("\"the patient's temperature is normal\"")
+    if temp>37:
+        print("\"the patient is hyperthermic\"")
+    if temp<37:
+        print("\"the patient is hypothermic\"")
+
+
+temperature_check(14, "C")
+temperature_check(37, "C")
+temperature_check(37, "F")
+temperature_check(98.6, "F")
