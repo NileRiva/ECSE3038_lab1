@@ -11,7 +11,7 @@ Students should create a repository on GitHub and push code to this repository. 
 
 The code that the students are expected to write will not be specific to a particular topic.
 
-## Task 1
+## Outline
 In the Python programming language, you are expected to design and implement a simple script that performs actions as defined be the requirements below. These actions or functions must be added to your code one after the other separated by a commit to the repository hosted on GitHub. 
 
 Addition of any further functionality is up to you but the following functions must be included:
