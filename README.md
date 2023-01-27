@@ -63,6 +63,7 @@ Addition of any further functionality is up to you but the following functions m
     
     (5 marks)
 
+Note: There was a file generated called testignore.py to demonstrate the implementation of .gitignore
 ## JOKE
 Two bytes meet.  The first byte asks, “Are you ill?”
 The second byte replies, “No, just feeling a bit off.”
